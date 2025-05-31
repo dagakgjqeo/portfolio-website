@@ -6,7 +6,7 @@ const articles = [
   {
     id: 1,
     title: "所属団体「add.」について",
-    description: "現在所属している開発団体のHPです．",
+    description: "現在所属している開発団体のHPです．現在鋭意制作中ですm(_ _)m",
     image: "/images/add-logo.png",
     url: "https://addmaru.tech/",
     publishedAt: "2025年5月31日",
