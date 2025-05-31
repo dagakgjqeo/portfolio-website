@@ -26,7 +26,7 @@ const products = [
     id: 3,
     title: "Illust Battler",
     description: "かわいいいらすとやのキャラでバトルしよう！！初のゲーム制作！javaで作りました．",
-    image: "/images/javaExercises2.png",
+    image: "/images/JavaExercises2.png",
     url: null,
     github: null,
   },
