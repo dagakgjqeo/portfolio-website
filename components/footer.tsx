@@ -118,7 +118,10 @@ export function Footer() {
                 <p className="text-xs text-muted-foreground">学生</p>
               </div>
             </div>
-            <p className="text-sm text-muted-foreground">概要を書きます．</p>
+            <p className="text-sm text-muted-foreground">
+              大学で学ぶ中でプログラミングで自分のイメージを実現することに楽しさを覚え，今に至ります． エラーについて論理的に考えることが楽しいです．バージョン違いや環境の違いによるエラーが嫌いです．
+              大好きな漫画はハイキューで，好きなスポーツはバレーです． 身近な人を笑わせることに命を懸けています．
+            </p>
           </div>
         </div>
 
