@@ -81,7 +81,6 @@ export default function HomePage() {
         </div>
       </div>
 {/*
-      {/* 最新の制作物 */}
       <div className="container py-16">
         <div className="flex justify-between items-center mb-8">
           <h2 className="text-2xl font-bold text-white">
