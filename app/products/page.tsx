@@ -9,7 +9,7 @@ const products = [
     id: 1,
     title: "卒研：リアルタイム文字起こし+曖昧表現検出⁺質問文提示アプリ",
     description:
-      "卒研：リアルタイム文字起こし+曖昧表現検出⁺質問文提示アプリ",
+      "Google CloudのAPIを使用してリアルタイム文字起こしを実現し，話し手が使用した曖昧表現を検出，聞き手に質問文を提示するアプリです！",
     image: "/images/system_UI.png",
     url: null,
     github: null,
@@ -54,7 +54,7 @@ export default function ProductsPage() {
       <div className="text-center space-y-4 mb-12">
         <h1 className="text-4xl font-bold text-white">Products</h1>
         <p className="text-lg text-gray-300 max-w-2xl mx-auto">
-          これまでに制作したWebアプリケーションやサービスをご紹介する予定です．
+          これまでに制作したWebアプリケーションやサービスをご紹介するページです．随時Githubにアップロードします．
         </p>
       </div>
 
