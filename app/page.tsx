@@ -80,7 +80,7 @@ export default function HomePage() {
           </Card>
         </div>
       </div>
-
+{/*
       {/* 最新の制作物 */}
       <div className="container py-16">
         <div className="flex justify-between items-center mb-8">
@@ -133,7 +133,7 @@ export default function HomePage() {
           ))}
         </div>
       </div>
-
+*/}
       {/* 受賞歴ハイライト */}
       <div className="container py-16">
         <h2 className="text-2xl font-bold mb-8 text-white">
