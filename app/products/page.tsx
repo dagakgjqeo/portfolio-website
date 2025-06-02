@@ -43,7 +43,7 @@ const products = [
     title: "ブロック崩し発展版",
     description: "特殊ブロックの効果を纏って敵を速く倒すことが目標のゲームです！1週間でUnityのAssetを実装することを目標に作成しました！",
     image: "/images/game_clear.png",
-    url: null,
+    url: https://unityroom.com/games/iceexplodebrockbreaker,
     github: null,
   },
 ]
