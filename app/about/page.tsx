@@ -20,10 +20,6 @@ const skills = [
 
 const education = [
   {
-    period: "2018年4月 - 2021年3月",
-    institution: "三国丘高等学校",
-    description: "文理学科卒業",
-  },
   {
     period: "2021年4月 - 2025年3月",
     institution: "和歌山大学",
