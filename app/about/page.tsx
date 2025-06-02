@@ -20,7 +20,6 @@ const skills = [
 
 const education = [
   {
-  {
     period: "2021年4月 - 2025年3月",
     institution: "和歌山大学",
     description: "システム工学部 システム工学科",
