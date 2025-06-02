@@ -33,15 +33,15 @@ const products = [
   {
     id: 4,
     title: "Time Quest",
-    description: "未来，現在，過去を行き来して良い未来を目指す！行動次第でエンディングが変化します！",
+    description: "未来と現在を行き来して良い未来を目指す！行動次第でエンディングが変化します！",
     image: "/images/timequest.png",
-    url: null,
+    url: "https://unityroom.com/games/timeleapquest",
     github: null,
   },
   {
     id: 5,
     title: "ブロック崩し発展版",
-    description: "特殊ブロックの効果を纏って敵を速く倒すことが目標のゲームです！1週間でUnityのAssetを実装することを目標に作成しました！左右の壁で挙動がおかしくなりやすいので難しいです．",
+    description: "特殊ブロックの効果を纏って敵を速く倒すことが目標のゲームです！1週間でUnityのAssetを実装することを目標に作成しました！spaceを活用するとバグらない仕様．",
     image: "/images/game_clear.png",
     url: "https://unityroom.com/games/iceexplodebrockbreaker",
     github: null,
